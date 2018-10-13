@@ -95,6 +95,7 @@ Register at - https://hacktoberfest.digitalocean.com/
 | Ashik Paul | II | CSE | |
 | Aditya Vyas | II | IT | |
 | Divyansh Sharma | III | CSE | |
+| Ayushi Khandelwal | II | CSE | |
 | Rishabh Anand | IV | ECE | |
 | Shiv Soni | IV | CSE | |
 | [Rajat](https://github.com/rjkumar22) | IV | SE |[@rjkumar22](https://hacktoberfest.digitalocean.com/stats/rjkumar22) |
